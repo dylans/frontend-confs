@@ -77,7 +77,6 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [JS Kongress](https://js-kongress.de/) | Munich, Germany | April 15 - 16, 2020 |  October 15, 2019 | Yes | [Yes](https://js-kongress.de/code-of-conduct/) |
 | [Internal JavaScript Conference](https://javascript-conference.com/) | London, United Kingdom | April 20 - 22, 2020 | [November 4, 2019](https://javascript-conference.com/call-for-papers-2/) | No | [Yes](https://javascript-conference.com/service-info/code-of-conduct/) |
 | [JSUnconf](http://jsunconf.eu/) | Hamburg, Germany | April 21 - 22, 2017 | Rolling | Yes | [Yes](http://2018.jsunconf.eu/coc/) |
-| [HalfStack Charlotte](https://halfstackconf.com/charlotte/) | Charlotte, North Carolina | April 24, 2020 | [November 15, 2019](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | No | [Yes](https://halfstackconf.com/charlotte/code-of-conduct/) |
 | [React Day Bangalore](https://reactday.in/) | Bangalore, India | April 25, 2020 | [November 30, 2019](https://www.papercall.io/cfps/2601/submissions/new) | No | [Yes](https://reactday.in/code-of-conduct) |
 | [Stir Trek](https://stirtrek.com/) | Columbus, Ohio | April 26, 2019 | February 3, 2018 | TBD | [Yes](https://stirtrek.com/Home/CodeOfConduct) |
 
@@ -95,6 +94,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [200OK](http://200ok.us/) | Tulsa, Oklahoma | May 18, 2018 | February 5, 2018 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct/) |
 | [NationJS](http://nationjs.com/) | Washington, D.C. | May 18, 2018 | TBD | Yes | [Yes](http://www.nationjs.com/conduct) |
 | [JS Day ES](http://2018.jsday.es/) | Madrid, Spain | May 19, 2018 | January 31, 2018 | No | [Yes](http://jsday.es/code-of-conduct-en.html) |
+| [HalfStack Online](https://halfstackconf.com/online/) | Online | May 22, 2020 | [April 15, 2020](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | N/A, Speaker Stipend | [Yes](https://halfstackconf.com/online/code-of-conduct/) |
 | [HolyJS Piter](https://holyjs-piter.ru/en/) | Piter, Russia | May 24 - 25, 2019 | March 11, 2019 | No | [Yes](https://holyjs-piter.ru/en/codeofconduct/) |
 | [Front-Trends](http://front-trends.com) | Warsaw, Poland | May 24 - 25, 2018 | Rolling | Yes | [Yes](https://2017.front-trends.com/code-of-conduct/) |
 | [ngVikings](https://ngvikings.org/) | Copenhagen, Denmark | May 27 - 28, 2019 | January 31, 2018 | Yes | [Yes](https://ngvikings.org/cod/) |
@@ -129,6 +129,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 
 | Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
 | ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [HalfStack Newquay](https://halfstackconf.com/newquay/) | Newquay, United Kingdom | July 3, 2020 | [February 15, 2020](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | Yes | [Yes](https://halfstackconf.com/newquay/code-of-conduct/) |
 | [OdessaJS](http://odessajs.org) | Odessa, Ukraine | July 6 - 8, 2018 | TBD | Case-by-case basis | [Yes](http://odessajs.org/Code_of_Conduct.pdf) |
 | [Chain React](https://infinite.red/ChainReactConf) | Portland, Oregon | July 11 - 13, 2018 | February 28, 2018 | Yes | Unspecified |
 | [Kansas City Developer Conference](http://www.kcdc.info/) | Kansas City, Missouri | July 11-13, 2018 | February 28, 2018 | Hotel-only | [Yes](http://www.kcdc.info/code) |
@@ -143,6 +144,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Web Directions Code](http://www.webdirections.org/code/) | Melbourne, Australia | August 1 - 2, 2018 | April 27, 2018 | Yes | [Yes](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [Converge SE](http://convergese.com/) | Columbia, South Carolina | August 8 - 10, 2018 | TBD | Unknown | Unspecified |
 | [Midwest JS](http://midwestjs.com/) | Minneapolis, Minnesota | August 8 - 10, 2018 | May 18, 2018 | Yes | Yes |
+| [HalfStack New York](https://halfstackconf.com/newyork/) | New York, New York | August 14, 2020 | [April 30, 2020](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | Yes | [Yes](https://halfstackconf.com/newyork/code-of-conduct/) |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, Utah | August 16 - 17, 2018 | April 1, 2018 | Yes | [Yes](http://www.reactrally.com/conduct) |
 | [JSConf US](http://jsconf.us/) | Carlsbad, California | August 21 - 23, 2018 | May 1, 2018 | Yes | [Yes](http://jsconf.us/code-of-conduct/) |
 | [BrazilJS](https://braziljs.org/conf/) | Porto Alegre, Brazil | August 24 - 25, 2018 | April 30, 2018 | Yes | [Yes](https://braziljs.org/coc) |
@@ -161,6 +163,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden | September 6 - 7, 2018 | March 31, 2018 | Yes | Yes |
 | [Refresh Conference](http://refresh.rocks/) | Tallinn, Estonia | September 7, 2018 | February 15, 2018 | Yes | [Yes](http://refresh.rocks/code-of-conduct) |
 | [NDC Sydney](http://ndcsydney.com/) | Sydney, Australia | September 17 - 21, 2018 | May 15, 2018 | Yes | [Yes](http://ndcsydney.com/page/code-of-conduct) |
+| [HalfStack Vienna](https://halfstackconf.com/vienna/) | Vienna, Austria | September 18, 2020 | [May 31, 2020](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | Yes | [Yes](https://halfstackconf.com/vienna/code-of-conduct/) |
 | [Empire Conf](http://empireconf.org/) | New York, New York | September 20 - 21, 2018 | June 15, 2018 | Yes | [Yes](http://empireconf.org/#code-conduct) |
 | [JSCamp](https://chicagojs.org/) | Chicago, Illinois | September 22, 2018 | July 4, 2018 | No | [Yes](https://chicagojs.org/code-of-conduct) |
 | [React Boston](http://www.reactboston.com/) | Boston, Massachusetts | September 29 - 30, 2018 | June 30, 2018 | Yes | [Yes](http://confcodeofconduct.com/) |
@@ -179,6 +182,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [dev up](http://www.devupconf.org/) | St. Louis, Missouri | October 14 - 16, 2019 | May 31, 2019 | Hotel | Yes |
 | [EmberFest](https://emberfest.eu/) | Amsterdam, The Netherlands | October 17 - 18, 2019 | August 1, 2019 | No | [Yes](https://emberfest.eu/code-of-conduct/) |
 | [Connect.Tech](http://connect.tech/) | Atlanta, Georgia | October 16 - 18, 2019 | May 1, 2019 | Case-by-case basis | [Yes](http://connect.tech/conduct.html) |
+| [HalfStack Tel Aviv](https://halfstackconf.com/telaviv/) | Tel Aviv, Israel | October 19, 2020 | [February 15, 2020](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | Yes | [Yes](https://halfstackconf.com/telaviv/code-of-conduct/) |
 | [Thunder Plains](http://thunderplainsconf.com/) | Oklahoma City, Oklahoma | October 22, 2019 | May 26, 2019 | Yes | [Yes](https://www.techlahoma.org/code-of-conduct) |
 | [Trondheim Developer Conference](https://trondheimdc.no) | Trondheim, Norway | October 28, 2018 | June 3, 2019 | Unknown | [Yes](https://trondheimdc.no/conduct) |
 
@@ -194,6 +198,7 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [FrontMania](https://www.frontmania.com/conference/) | Utrecht, The Netherlands | November 15, 2019 |  June 30, 2019 | Yes | [Yes](https://www.frontmania.com/conference/codeofconduct) |
 | [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia | November 18 - 19, 2019 | June 16, 2019 | Yes | [Yes](http://jsconf.com/codeofconduct.html) |
 | [AngularConnect](http://angularconnect.com/) | London, United Kingdom | November 19 - 20, 2019 |  March 25, 2019 | Yes | [Yes](https://www.angularconnect.com/code-of-conduct) |
+| [HalfStack London](https://halfstackconf.com/london/) | London, United Kingdom | November 20, 2020 | [June 30, 2020](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | Yes | [Yes](https://halfstackconf.com/london/code-of-conduct/) |
 | [Webclerks Community Conference](https://webclerks.at/) | Vienna, Austria | November 25, 2019 |  September 15, 2019 | Yes | [Yes](https://webclerks.at/code-of-conduct) |
 | [Frontend Con](https://frontend-con.io/) | Warsaw, Poland | November 26 - 27, 2019 | June 5, 2019 | Yes | [Yes](https://frontend-con.io/code-of-conduct/) |
 | [JSConf Japan](https://www.jsconf.jp/) | Tokyo, Japan | November 30 - December 1, 2019 | August 30, 2019 | Yes | [Yes](https://www.jsconf.jp/#h.p_E0KQdI8YY34H) |
@@ -206,5 +211,12 @@ Additions/corrections are welcome! Please check out [Contributing Guidelines](CO
 | [dotJS](https://www.dotjs.io/) | Paris, France | December 5 - 6, 2019 | Rolling | Yes | [Yes](https://www.dotjs.io/codeofconduct) |
 | [React Day Berlin](https://reactday.berlin/) | Berlin, Germany | December 6, 2019 | August 31, 2019 | Yes | [Yes](http://berlincodeofconduct.org) |
 | [NationJS Frontrunners React](http://nationjs.com/) | Washington, D.C. | December 6, 2019 | [October 11, 2019](https://www.papercall.io/frontrunners-react-2019) | Yes | [Yes](http://berlincodeofconduct.org) |
+| [HalfStack Charlotte](https://halfstackconf.com/charlotte/) | Charlotte, North Carolina | December 11, 2020 | [November 15, 2019](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | Yes | [Yes](https://halfstackconf.com/charlotte/code-of-conduct/) |
 | [ConFrontJS](https://confrontjs.com/) | Warsaw, Poland | December 7, 2019 | [November 1, 2019](https://docs.google.com/forms/d/e/1FAIpQLSeutfT7jfYuOCr0ORTWi13JbsufeazPs2C6nAdf9xclsemE-w/viewform) | Yes | [Yes](http://berlincodeofconduct.org) |
 | [Node+JS Interactive](https://events.linuxfoundation.org/events/nodejs-interactive-2019/) | Montreal, Canada | December 11 - 12, 2019 | June 21, 2019 | Unknown | [Yes](https://events.linuxfoundation.org/code-of-conduct/) |
+
+### January 2021
+
+| Conference | Location | Date | Submission Deadline | Flight / Hotel? | CoC? |
+| ---------- | -------- | ---- | ------------------- | ------------------------ | ---- |
+| [HalfStack Phoenix](https://halfstackconf.com/phoenix/) | Phoenix, Arizona | January 15, 2021 | [August 31, 2020](https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform) | Yes | [Yes](https://halfstackconf.com/phoenix/code-of-conduct/) |
